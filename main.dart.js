@@ -36231,7 +36231,7 @@ A.Yy.prototype={
 $0(){A.aU(this.a,!1).b_("Labs",t.X)},
 $S:0}
 A.Yz.prototype={
-$0(){A.aU(this.a,!1).b_("Pharamcies",t.X)},
+$0(){A.aU(this.a,!1).b_("Pharmacies",t.X)},
 $S:0}
 A.YA.prototype={
 $0(){A.aU(this.a,!1).b_("BeautyClinics",t.X)},
@@ -36249,7 +36249,7 @@ A.YD.prototype={
 $0(){A.aU(this.a,!1).b_("Labs",t.X)},
 $S:0}
 A.YE.prototype={
-$0(){A.aU(this.a,!1).b_("Pharamcies",t.X)},
+$0(){A.aU(this.a,!1).b_("Pharmacies",t.X)},
 $S:0}
 A.YF.prototype={
 $0(){A.aU(this.a,!1).b_("BeautyClinics",t.X)},
