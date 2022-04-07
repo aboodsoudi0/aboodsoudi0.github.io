@@ -50,7 +50,7 @@ const RESOURCES = {
 "assets/assets/tourismtablet.png": "274be88fd2098d431c89e1ef1f738937",
 "assets/FontManifest.json": "5697a6277031c26f521ca06194080f83",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "5fc4948f5fd44f740ad8d1383fce757a",
+"assets/NOTICES": "a546d1c1bf2c6ea900cfc1ce80744074",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
@@ -61,9 +61,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7130b2c7f354da6e740c52dcf366eb9b",
-"/": "7130b2c7f354da6e740c52dcf366eb9b",
-"main.dart.js": "83b923d0c32165c858d4aa12bb7effdd",
+"index.html": "c0f1d239822ca0f4396a8cfe59be8f28",
+"/": "c0f1d239822ca0f4396a8cfe59be8f28",
+"main.dart.js": "47ecf9b3ae9d6d635d3bd8a0eb6739e0",
 "manifest.json": "d0b8a20a4a339d8a61d930da8da1b7aa",
 "version.json": "cd0f7e881ebe51b4640fd4406aa7a546"
 };
